@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GoogleMaps</string>
+    <string name="save">save</string>
+    <string name="clear">clear</string>
+    <string name="polyline">polyline</string>
+    <string name="polygon">polygon</string>
+    <string name="hybrid">hybrid</string>
+    <string name="norm">norm</string>
+</resources>
